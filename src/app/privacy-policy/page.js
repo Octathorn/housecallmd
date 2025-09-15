@@ -19,7 +19,7 @@ const PrivacyPolicy = () => {
           TERMS OF USE
         </p>
         <p>
-          Platinum Medical Evaluations (“we,” “us,” or “our”) provides this
+          HouseCall MD (“we,” “us,” or “our”) provides this
           website (“Site”) to you conditioned on your acceptance without
           modification of the terms, conditions, and notices contained herein.
           Your use of this Site constitutes your agreement to all such terms,

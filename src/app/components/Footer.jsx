@@ -33,12 +33,13 @@ const Footer = () => {
           <div className="flex flex-col items-center lg:items-start mb-6 lg:mb-0">
             <div className="flex items-center space-x-2">
               <Image
-                src="/assets/thumbs/hosuecall-md-logo-r0cas147j83zj6aaxmbp4fvbunkhpigumslsdjdnnk.png"
+                src="/assets/thumbs/Image-5-1-qwr1rig4oxkrodr71539kmr46bqhw59dols7ppxgqo.png"
                 alt="HouseCall MD Logo"
-                width={80}
-                height={40}
-                className="w-40 h-8 sm:w-50 sm:h-10"
+                width={60}
+                height={60}
+                // className="w-40 h-8 sm:w-50 sm:h-10"
               />
+              <p className="text-2xl font-semibold pt-3">HouseCall MD</p>
             </div>
             <p className="text-sm mt-2 max-w-xs text-center lg:text-left">
               Mobile medical care for geriatrics and disabled individuals, serving the Greater Los Angeles, CA area.
