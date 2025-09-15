@@ -213,9 +213,8 @@ const PrivacyPolicy = () => {
           COPYRIGHT AND TRADEMARK NOTICES
         </p>
         <p>
-          All contents of this website are Copyright © 2025 Platinum Medical
-          Evaluations. All Rights Reserved. All logos are trademarks and service
-          marks of Platinum Medical Evaluations. All other trademarks, service
+          All contents of this website are Copyright © 2025 HouseCall MD. All Rights Reserved. All logos are trademarks and service
+          marks of HouseCall MD. All other trademarks, service
           marks and logos used in this Site are the property of their respective
           owners.
         </p>
