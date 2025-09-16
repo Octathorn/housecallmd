@@ -18,10 +18,10 @@ const Footer = () => {
             By providing your phone number and opting in, you consent to receive updates, promotions, marketing, other relevant information and communications via SMS text messages from HouseCall MD at the phone number provided. You are not required to consent to receive text messages to purchase goods or services. Message frequency may vary. Message and data rates may apply. You may opt-out at any time by texting "STOP" to (626) 765-4321 any SMS message received. For more information, text "HELP" or contact us at (626) 765-4321.
           </p>
           <p className="text-sm md:text-base leading-relaxed mt-4 px-4 md:px-24">
-            <span className="font-semibold">Privacy Policy:</span> Your phone number will be stored and used solely for the purpose of sending SMS communications. We do not share your information with third parties, except as required by law. Please refer to our full <a href="/privacy-policy" className="hover:underline">[Privacy Policy]</a> for more details on how we protect your personal data.
+            <span className="font-semibold">Privacy Policy:</span> Your phone number will be stored and used solely for the purpose of sending SMS communications. We do not share your information with third parties, except as required by law. Please refer to our full <a href="/privacy-policy" className="hover:underline text-blue-800">[Privacy Policy]</a> for more details on how we protect your personal data.
           </p>
           <p className="text-sm md:text-base leading-relaxed mt-2">
-            <span className="font-semibold">Terms & Conditions:</span> By providing your phone number, you agree to our <a href="/privacy-policy" className="hover:underline">[Terms & Conditions]</a>.
+            <span className="font-semibold">Terms & Conditions:</span> By providing your phone number, you agree to our <a href="/privacy-policy" className="hover:underline text-blue-800">[Terms & Conditions]</a>.
           </p>
         </div>
       </div>
