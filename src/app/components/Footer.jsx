@@ -50,8 +50,8 @@ const Footer = () => {
           <div className="lg:mt-0">
             <h4 className="text-base sm:text-lg font-semibold mb-3 sm:mb-2">Company</h4>
             <ul className="text-sm space-y-2">
-              <li><a href="#" className="hover:underline">About</a></li>
-              <li><a href="#" className="hover:underline">Services</a></li>
+              <li><a href="/about" className="hover:underline">About</a></li>
+              <li><a href="/#services" className="hover:underline">Services</a></li>
             </ul>
           </div>
 
@@ -59,10 +59,10 @@ const Footer = () => {
           <div className="lg:mt-0">
             <h4 className="text-base sm:text-lg font-semibold mb-3 sm:mb-2">Support</h4>
             <ul className="text-sm space-y-2">
-              <li><a href="#" className="hover:underline">Contact</a></li>
-              <li><a href="#" className="hover:underline">FAQs</a></li>
-              <li><a href="#" className="hover:underline">Request an Appointment</a></li>
-              <li><a href="#" className="hover:underline">Patients Benefits</a></li>
+              <li><a href="/contact" className="hover:underline">Contact</a></li>
+              <li><a href="/faqs" className="hover:underline">FAQs</a></li>
+              <li><a href="/contact" className="hover:underline">Request an Appointment</a></li>
+              <li><a href="/patient-benefits" className="hover:underline">Patient Benefits</a></li>
             </ul>
           </div>
 
@@ -72,7 +72,7 @@ const Footer = () => {
             <div className="text-sm space-y-2">
               <div className="flex items-center justify-center lg:justify-start">
                 <MapPin size={16} className="mr-2 flex-shrink-0" />
-                <span className="break-words">1494 S. Robertson Blvd, Suite 200, Los Angeles, CA 90035</span>
+                <span className="break-words">1171 S. Robertson Blvd, Suite 242, Los Angeles, CA 90035</span>
               </div>
               <div className="flex items-center justify-center lg:justify-start">
                 <Mail size={16} className="mr-2 flex-shrink-0" />
@@ -120,7 +120,7 @@ const Footer = () => {
 
           {/* Copyright and developer info */}
           <div className="text-center lg:text-right">
-            <p className="mb-1">Copyright © 2023 HouseCall MD, All rights reserved.</p>
+            <p className="mb-1">Copyright © 2026 HouseCall MD, All rights reserved.</p>
           </div>
         </div>
       </div>
