@@ -48,7 +48,7 @@ export default function Contact() {
                     Location
                   </h4>
                   <p className="text-gray-700 text-xs sm:text-sm">
-                    1494 S. Robertson Blvd, Suite 200, Los Angeles, CA 90035
+                    1171 S. Robertson Blvd, Suite 242, Los Angeles, CA 90035
                   </p>
                 </div>
               </div>
