@@ -82,7 +82,7 @@ const FAQ = () => {
             F A Q
           </h3>
           <h2 className="text-3xl sm:text-4xl md:text-5xl font-bold text-[#17224D] mb-4 sm:mb-6">
-            Frequently Ask Questions
+            Frequently Asked Questions
           </h2>
           <p className="text-base sm:text-lg text-gray-600 max-w-2xl mx-auto px-4">
             Find answers to commonly asked questions about our services and how we can assist you.

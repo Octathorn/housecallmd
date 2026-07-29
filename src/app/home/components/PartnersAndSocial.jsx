@@ -126,7 +126,7 @@ const PartnersAndSocial = () => {
           {/* Content */}
           <div className="relative z-10">
             <h3 className="text-sm font-semibold text-green-500 uppercase tracking-widest mb-2">
-              GET IN CONNECT
+              GET CONNECTED
             </h3>
             <h2 className="text-3xl md:text-4xl font-bold text-[#17224D] mb-8">
               Follow our Social Media
